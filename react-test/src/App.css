@@ -1,0 +1,35 @@
+.App {
+  padding-left: 3rem;
+}
+
+.App > div {
+  width: max-content;
+}
+
+h4 {
+  text-align: center;
+}
+
+input {
+  padding: 1rem 0.5rem;
+}
+
+li {
+  text-align: left;
+  padding-left: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+ol {
+  padding-inline-start: 20px;
+}
+
+.name {
+  font-weight: 500;
+}
+
+.username {
+  margin-left: 0.75rem;
+  color: gray;
+  font-size: 0.8rem;
+}
